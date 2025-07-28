@@ -1,0 +1,28 @@
+Comment,Designator,Footprint,JLCPCB part #
+Battery_Cell,BT1,Battery:BatteryHolder_MPD_BH-18650-PC2,C9900045649
+10u,"C1, C6",Capacitor_SMD:C_0603_1608Metric,C1713
+22u,C2,Capacitor_SMD:C_0805_2012Metric, C29277
+100n,C5,Capacitor_SMD:C_0603_1608Metric,C1590
+100n,C7,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C1590
+LED,"D1, D2, D3, D4",LED_THT:LED_D2.0mm_W4.8mm_H2.5mm_FlatTop,
+USB_C_Receptacle_USB2.0_16P,J1,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,C165948
++-,J2,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Left,
+1B+2B-,J3,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Left,
+1OUT+2OUT- ,J4,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical_SMD_Pin1Left,
+Screw_Terminal_01x06,J5,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-6-5.08_1x06_P5.08mm_Horizontal", C89120
+Screw_Terminal_01x07,J6,Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Horizontal, C32713227
+Screw_Terminal_01x08,J7,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal", C89120
+Screw_Terminal_01x09,J8,Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical, C22438285
+Screw_Terminal_01x10,Q1,Package_SO:TSSOP-8_4.4x3mm_P0.65mm,C16052
+Screw_Terminal_01x11,"R1, R2",Resistor_SMD:R_0603_1608Metric,  C3202451
+Screw_Terminal_01x12,R3,Resistor_SMD:R_0603_1608Metric, C100050
+Screw_Terminal_01x13,"R4, R5, R7",Resistor_SMD:R_0603_1608Metric,C73797
+Screw_Terminal_01x14,R6,Resistor_SMD:R_0603_1608Metric, C7250
+Screw_Terminal_01x15,R8,Resistor_SMD:R_0603_1608Metric,C23096
+Screw_Terminal_01x16,R9,Resistor_SMD:R_0603_1608Metric, C1203
+Screw_Terminal_01x17,SW1,Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical, C160262
+Screw_Terminal_01x18,SW2,Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx58-2LFS,C2837546
+Screw_Terminal_01x19,U1,Library:WT32-ETH01,
+Screw_Terminal_01x20,U2,Package_TO_SOT_SMD:SOT-223-3_TabPin2, C6186
+Screw_Terminal_01x21,U3,Library:SOP127P600X175-9N,C382139
+Screw_Terminal_01x22,U4,Package_TO_SOT_SMD:SOT-23-6,C351410
