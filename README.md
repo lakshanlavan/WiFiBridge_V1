@@ -1,5 +1,7 @@
 # 📶 WiFiBridge V1
 
+<img src="assets/wifibridgeV1_3D.jpeg" alt="WiFiBridge 3D View" width="600"/>
+
 ### 🔧 Project Overview
 
 **WiFiBridge V1** is a compact, battery-powered Wi-Fi bridge designed by **Lakshan Lavan**.  
